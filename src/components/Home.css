@@ -1,0 +1,9 @@
+.books-container{
+    border: 1px solid rgb(167, 148, 148);
+    background-color: rgb(194, 187, 179);
+    padding: 2px;
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+
+}

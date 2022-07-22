@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid;
+  }
+  #delete:hover {
+        background-color: rgb(137, 143, 137);
+        color: black;
+    }
+  
